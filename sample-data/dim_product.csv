@@ -1,0 +1,9 @@
+ProductKey,ProductName,Category,Subcategory,UnitCost,ListPrice,IsActive
+101,Laptop Pro 14,Electronics,Computers,780,1199,true
+102,Laptop Air 13,Electronics,Computers,620,999,true
+103,Wireless Mouse,Electronics,Accessories,12,29,true
+104,Mechanical Keyboard,Electronics,Accessories,35,89,true
+105,Office Chair,Home,Office Furniture,95,249,true
+106,Standing Desk,Home,Office Furniture,180,499,true
+107,Water Bottle,Lifestyle,Drinkware,4,15,true
+108,Notebook Set,Lifestyle,Stationery,3,12,true

@@ -1,0 +1,7 @@
+CustomerKey,CustomerName,Segment,Industry,RegionKey,JoinDate,IsActive
+1001,Acme Corp,Enterprise,Manufacturing,1,2024-02-10,true
+1002,Northwind LLC,SMB,Distribution,2,2024-06-18,true
+1003,Contoso Health,Enterprise,Healthcare,3,2023-11-03,true
+1004,Fabrikam Retail,Mid-Market,Retail,4,2025-01-15,true
+1005,Blue Yonder Labs,SMB,Technology,1,2025-03-01,true
+1006,Tailspin Foods,Mid-Market,Food & Beverage,2,2024-09-09,true
