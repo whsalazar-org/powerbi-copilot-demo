@@ -43,6 +43,22 @@ Path: `docs/powerbi/`
 - `standards/` — naming conventions, DAX style guide, performance guidance
 - `playbooks/` — bug triage and enhancement workflow
 
+## Quick Start Prompts
+
+Use these reusable prompts to apply the Power BI framework quickly:
+
+- [Generate Executive Report](.github/skills/powerbi-report-dev/prompts/generate-executive-report.prompt.md)  
+  Create an executive-ready scorecard plan using the sample model and repository standards.
+
+- [Build Report](.github/skills/powerbi-report-dev/prompts/build-report.prompt.md)  
+  Run the full report development lifecycle (intake → model → DAX → UX → validation → PR packaging).
+
+- [Optimize Model](.github/skills/powerbi-report-dev/prompts/optimize-model.prompt.md)  
+  Identify model/DAX/report performance bottlenecks and propose prioritized improvements.
+
+- [Create KPI Pack](.github/skills/powerbi-report-dev/prompts/create-kpi-pack.prompt.md)  
+  Generate modular KPI measures with business definitions, assumptions, and validation tests.
+
 ## Recommended Workflow
 
 1. Capture requirements using the intake template.
