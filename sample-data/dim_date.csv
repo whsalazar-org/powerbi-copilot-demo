@@ -1,0 +1,16 @@
+DateKey,Date,Year,Quarter,MonthNumber,MonthName,WeekOfYear,IsWeekend
+20260101,2026-01-01,2026,Q1,1,January,1,false
+20260102,2026-01-02,2026,Q1,1,January,1,false
+20260103,2026-01-03,2026,Q1,1,January,1,true
+20260104,2026-01-04,2026,Q1,1,January,1,true
+20260105,2026-01-05,2026,Q1,1,January,2,false
+20260106,2026-01-06,2026,Q1,1,January,2,false
+20260107,2026-01-07,2026,Q1,1,January,2,false
+20260108,2026-01-08,2026,Q1,1,January,2,false
+20260109,2026-01-09,2026,Q1,1,January,2,false
+20260110,2026-01-10,2026,Q1,1,January,2,true
+20260111,2026-01-11,2026,Q1,1,January,2,true
+20260112,2026-01-12,2026,Q1,1,January,3,false
+20260113,2026-01-13,2026,Q1,1,January,3,false
+20260114,2026-01-14,2026,Q1,1,January,3,false
+20260115,2026-01-15,2026,Q1,1,January,3,false
