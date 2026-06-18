@@ -128,3 +128,23 @@ When generating or modifying Power BI assets, Copilot should:
 - Do not remove or rename widely used measures/columns without migration notes.
 - Do not hardcode sensitive values or environment-specific secrets.
 - Do not bypass validation steps for speed.
+
+## 15) Framework Contract (Execution Phases)
+
+When asked to develop or modify a Power BI report, execute these phases in order unless explicitly told otherwise:
+
+1. **Intake**
+   - Restate business objective, audience, grain, KPI definitions.
+   - Document assumptions and open questions.
+2. **Model Plan**
+   - Propose/validate star schema and relationships.
+   - Identify risks (many-to-many, ambiguous paths, high cardinality).
+3. **DAX Plan**
+   - Build base measures first, then derived, then time intelligence.
+   - Define expected filter behavior.
+4. **Report UX Plan**
+   - Define page purpose, visuals, slicers, interactions, accessibility.
+5. **Validation**
+   - Reconciliation, filter-context tests, RLS checks, performance checks.
+6. **Delivery**
+   - Provide concise summary, test evidence, assumptions, and next steps.
